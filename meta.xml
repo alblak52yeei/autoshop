@@ -1,0 +1,54 @@
+<meta>
+	<info author='rdror' name='Federation MTA Test Task #2'/>
+	<oop>true</oop>
+
+	<script src='ib.lua' type='client' cache='false'/>
+	<script src='Settings.lua' type='shared' cache='false'/>
+	<script src='CAutoShopUI.lua' type='client' cache='false'/>
+	<script src='CSellVehicleUI.lua' type='client' cache='false'/>
+	<script src='CChangeNumbersUI.lua' type='client' cache='false'/>
+
+	<file src='Resources/bg.png'/>
+	<file src='Resources/bg_item.png'/>
+	<file src='Resources/bg_item_selected.png'/>
+	<file src='Resources/quit.png'/>
+	<file src='Resources/next.png'/>
+	<file src='Resources/previous.png'/>
+
+	<file src='Resources/bg_confirm.png'/>
+	<file src='Resources/confirm_yes.png'/>
+	<file src='Resources/confirm_no.png'/>
+
+	<file src='Resources/Colors/1.png'/>
+	<file src='Resources/Colors/2.png'/>
+	<file src='Resources/Colors/3.png'/>
+	<file src='Resources/Colors/4.png'/>
+	<file src='Resources/Colors/5.png'/>
+
+	<file src='Resources/Vehicles/400.png'/>
+	<file src='Resources/Vehicles/401.png'/>
+	<file src='Resources/Vehicles/415.png'/>
+	<file src='Resources/Vehicles/418.png'/>
+	<file src='Resources/Vehicles/421.png'/>
+	<file src='Resources/Vehicles/445.png'/>
+	<file src='Resources/Vehicles/451.png'/>
+	<file src='Resources/Vehicles/470.png'/>
+	<file src='Resources/Vehicles/474.png'/>
+	<file src='Resources/Vehicles/479.png'/>
+	<file src='Resources/Vehicles/507.png'/>
+	<file src='Resources/Vehicles/542.png'/>
+	<file src='Resources/Vehicles/602.png'/>
+
+	<file src='Resources/Fonts/Gilroy/gilroy-medium.ttf' />
+	<file src='Resources/Fonts/Gilroy/gilroy-bold.ttf' />
+	<file src='Resources/Fonts/Gilroy/gilroy-semibold.ttf' />
+
+	<file src='Resources/Fonts/Montserrat/montserrat-medium.ttf'/>
+	<file src='Resources/Fonts/Montserrat/montserrat-italic.ttf'/>
+
+	<file src='Resources/Icons/premium.png'/>
+	<script src='Utils.lua' type='server'/>
+	<script src='SAutoShop.lua' type='server'/>
+	<script src='SChangeNumbers.lua' type='server'/>
+	<script src='SSellVehicle.lua' type='server'/>
+</meta>
